@@ -1,0 +1,40 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+
+font-size: 25px;
+width: 100%;
+margin: 0%;
+font-weight: bolder;
+
+}
+
+#start,#object_found,#status
+{
+
+    font-size: 20px;
+    width: 20%;
+    font-weight: bolder;
+}
+
+.copy_right_footer
+{
+    width: 100%;
+    font-size: 25px;
+    font-weight: bolder;
+    background-color: grey;
+    text-align: center;
+    color: aliceblue;
+    position:fixed;
+    bottom: 0;
+}
+
+canvas
+{
+    border-radius: 10px;
+    margin-top: 140px;
+    box-shadow: 5px 5px 5px black;
+    border: 5 solid black;
+}
